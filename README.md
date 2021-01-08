@@ -38,7 +38,7 @@ By creating a map of business density we can analyze where most coffee shops are
 ![img](https://github.com/vanitoz/nyc_mhtn_ds_120720_Project_1/blob/main/PICTURES/DENSITY_MAP.png)<br>
 
 
-### Visualizing exact differances - Brooklyn and Queens.
+### Visualizing exact differences - Brooklyn and Queens.
 
 
   The map of business density doesn't give us clear understanding about geographical location for new business. Applying math and statistical analysis to more data we are able to get more precise information about the regions. The next barchart represents the amount of businesses per borough.
